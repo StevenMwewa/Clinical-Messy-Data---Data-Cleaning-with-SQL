@@ -1,0 +1,301 @@
+"standardized_patient_id","clean_full_name","standardized_gender","clean_date_of_birth","clean_admission_time","clean_discharge_time","standardized_phone","is_invalid_phone","standard_vital_types","clean_vital_values","clean_lab_test","clean_lab_results"
+"P-0056","Unknown","M",NULL,"2024-01-05 08:00:00",NULL,NULL,True,"Blood Pressure","15","Hgb","250"
+"P-0122","John  Doe","Unknown",NULL,NULL,"2024-01-10 14:00:00","+260971234567",False,"Heart Rate","98","Hgb","250"
+"P-0113","Lucy  Tembo","M",NULL,NULL,NULL,"+260971234567",False,"Blood Pressure","45","Hgb","250"
+"P-0054","Lucy  Tembo","Unknown",NULL,"2024-01-05 08:00:00",NULL,NULL,True,"Blood Pressure","15","Creatinine","Positive"
+"P-0124","Paul Mwape","Unknown","2000-01-13",NULL,NULL,"+260971234567",False,"Heart Rate","invalid","WBC","Positive"
+"P-0089","Paul Mwape","Unknown",NULL,"2024-01-05 08:00:00",NULL,"+260971234567",False,"Temperature","120/80","Creatinine","250"
+"P-0028","John  Doe","Unknown",NULL,"2024-01-05 08:00:00","2024-01-10 14:00:00","+260971234567",False,"Heart Rate","45","Creatinine","invalid"
+"P-0026","Unknown","M",NULL,NULL,NULL,NULL,True,"Heart Rate","15","Creatinine","Positive"
+"P-0016","Unknown","Unknown","1998-01-12",NULL,"2024-01-10 14:00:00","+260971234567",False,"Heart Rate","45","WBC","250"
+"P-0075","Paul Mwape","Unknown",NULL,NULL,NULL,"+260971234567",False,"Temperature","invalid","WBC","250"
+"P-0120","Mary Anne","M","2000-01-13",NULL,NULL,"+260971234567",False,"Temperature","invalid","Hgb","13.5"
+"P-0087","Mary Anne","Unknown",NULL,NULL,"2024-01-10 14:00:00",NULL,True,"Temperature","invalid","Hgb","250"
+"P-0123","Mary Anne","M","2000-01-13","2024-01-05 08:00:00",NULL,NULL,True,"Temperature","15","Creatinine",NULL
+"P-0003","Paul Mwape","Unknown","1998-01-12","2024-01-05 10:30:00",NULL,"+260971234567",False,"Temperature","200","WBC",NULL
+"P-0031","Paul Mwape","Unknown","1998-01-12","2024-01-05 08:00:00",NULL,"+260971234567",False,"Heart Rate","45","Creatinine","invalid"
+"P-0141","Mary Anne","Unknown",NULL,NULL,NULL,"+260971234567",False,"Temperature","98","Hgb","13.5"
+"P-0141","Unknown","Unknown","1998-01-12",NULL,NULL,"+260971234567",False,"Temperature","98","Hgb",NULL
+"P-0024","John  Doe","F","1998-01-12",NULL,NULL,NULL,True,"Heart Rate","120/80","WBC","Positive"
+"P-0102","John  Doe","Unknown","1998-01-12","2024-01-05 10:30:00",NULL,"+260971234567",False,"Temperature","invalid","Hgb",NULL
+"P-0018","John  Doe","F",NULL,"2024-01-05 08:00:00",NULL,"+260971234567",False,"Temperature","15","WBC","invalid"
+"P-0097","Unknown","M","2000-01-13","2024-01-05 08:00:00",NULL,"+260971234567",False,"Temperature","120/80","Hgb","250"
+"P-0006","Lucy  Tembo","Unknown",NULL,NULL,"2024-01-10 14:00:00",NULL,True,"Heart Rate","45","Creatinine","250"
+"P-0071","John  Doe","Unknown",NULL,"2024-01-05 08:00:00","2024-01-10 14:00:00","+260971234567",False,"Heart Rate","98","Hgb","invalid"
+"P-0013","Lucy  Tembo","F","1998-01-12","2024-01-05 10:30:00","2024-01-10 14:00:00","+260971234567",False,"Blood Pressure","15","Hgb",NULL
+"P-0022","Paul Mwape","F","2000-01-13","2024-01-05 08:00:00",NULL,NULL,True,"Temperature","15","WBC","13.5"
+"P-0116","John  Doe","F","1998-01-12","2024-01-05 10:30:00",NULL,"+260971234567",False,"Heart Rate","invalid","Hgb","250"
+"P-0133","Paul Mwape","Unknown",NULL,"2024-01-05 08:00:00",NULL,NULL,True,"Heart Rate","200","WBC","invalid"
+"P-0051","Unknown","F",NULL,"2024-01-05 08:00:00","2024-01-10 14:00:00","+260971234567",False,"Temperature","invalid","Hgb",NULL
+"P-0027","Paul Mwape","F","1998-01-12","2024-01-05 10:30:00",NULL,NULL,True,"Temperature","120/80","Creatinine",NULL
+"P-0100","Paul Mwape","F",NULL,NULL,NULL,"+260971234567",False,"Blood Pressure","98","Hgb","Positive"
+"P-0062","John  Doe","M","2000-01-13",NULL,NULL,"+260971234567",False,"Blood Pressure","200","WBC","invalid"
+"P-0048","Unknown","M",NULL,"2024-01-05 08:00:00","2024-01-10 14:00:00",NULL,True,"Temperature","45","Hgb","Positive"
+"P-0043","Mary Anne","F","1998-01-12","2024-01-05 08:00:00",NULL,NULL,True,"Temperature","200","WBC",NULL
+"P-0127","Unknown","M","2000-01-13","2024-01-05 10:30:00",NULL,NULL,True,"Temperature","120/80","Hgb","invalid"
+"P-0064","John  Doe","F","2000-01-13","2024-01-05 10:30:00",NULL,NULL,True,"Heart Rate","200","Hgb",NULL
+"P-0090","Unknown","M","1998-01-12","2024-01-05 10:30:00",NULL,"+260971234567",False,"Temperature","120/80","Creatinine",NULL
+"P-0044","Paul Mwape","F",NULL,"2024-01-05 10:30:00","2024-01-10 14:00:00",NULL,True,"Temperature","98","Creatinine","250"
+"P-0034","Paul Mwape","M",NULL,"2024-01-05 08:00:00",NULL,NULL,True,"Temperature","invalid","WBC","invalid"
+"P-0116","Lucy  Tembo","Unknown","2000-01-13",NULL,NULL,NULL,True,"Temperature","120/80","Hgb","13.5"
+"P-0118","Unknown","F","1998-01-12","2024-01-05 08:00:00",NULL,NULL,True,"Temperature","15","Creatinine","Positive"
+"P-0141","Unknown","F","2000-01-13","2024-01-05 10:30:00","2024-01-10 14:00:00","+260971234567",False,"Temperature","98","Hgb","250"
+"P-0113","Lucy  Tembo","M","1998-01-12","2024-01-05 08:00:00",NULL,NULL,True,"Heart Rate","invalid","Creatinine","Positive"
+"P-0022","John  Doe","F","2000-01-13",NULL,NULL,"+260971234567",False,"Heart Rate","invalid","Hgb","13.5"
+"P-0055","Mary Anne","Unknown","1998-01-12","2024-01-05 10:30:00","2024-01-10 14:00:00",NULL,True,"Temperature","98","WBC","250"
+"P-0123","Lucy  Tembo","M","1998-01-12",NULL,NULL,"+260971234567",False,"Temperature","200","WBC","250"
+"P-0037","Unknown","Unknown","1998-01-12",NULL,NULL,NULL,True,"Heart Rate","invalid","Hgb","invalid"
+"P-0114","John  Doe","M","1998-01-12",NULL,NULL,NULL,True,"Temperature","200","Hgb","Positive"
+"P-0064","John  Doe","Unknown","2000-01-13","2024-01-05 08:00:00",NULL,"+260971234567",False,"Temperature","15","Hgb","250"
+"P-0127","Mary Anne","F",NULL,"2024-01-05 10:30:00",NULL,"+260971234567",False,"Temperature","200","WBC",NULL
+"P-0108","Lucy  Tembo","M","1998-01-12","2024-01-05 10:30:00",NULL,"+260971234567",False,"Heart Rate","98","Hgb","invalid"
+"P-0074","Lucy  Tembo","Unknown",NULL,"2024-01-05 08:00:00",NULL,"+260971234567",False,"Heart Rate","15","Hgb",NULL
+"P-0090","Paul Mwape","M",NULL,NULL,NULL,NULL,True,"Heart Rate","15","Hgb","Positive"
+"P-0040","Lucy  Tembo","Unknown","1998-01-12",NULL,NULL,NULL,True,"Heart Rate","98","Hgb","13.5"
+"P-0030","Unknown","Unknown","1998-01-12","2024-01-05 08:00:00","2024-01-10 14:00:00",NULL,True,"Heart Rate","invalid","Hgb","13.5"
+"P-0128","Unknown","Unknown","2000-01-13",NULL,"2024-01-10 14:00:00","+260971234567",False,"Temperature","invalid","Hgb","13.5"
+"P-0110","Unknown","M","2000-01-13",NULL,NULL,"+260971234567",False,"Blood Pressure","15","Hgb","invalid"
+"P-0043","Mary Anne","F","1998-01-12","2024-01-05 08:00:00",NULL,"+260971234567",False,"Blood Pressure","98","Hgb","13.5"
+"P-0012","Paul Mwape","F","1998-01-12","2024-01-05 10:30:00",NULL,"+260971234567",False,"Temperature","200","Creatinine","250"
+"P-0034","Mary Anne","F","1998-01-12","2024-01-05 08:00:00",NULL,"+260971234567",False,"Heart Rate","98","Creatinine","13.5"
+"P-0096","Paul Mwape","F","2000-01-13","2024-01-05 08:00:00",NULL,"+260971234567",False,"Temperature","invalid","WBC","Positive"
+"P-0007","Mary Anne","M","1998-01-12","2024-01-05 10:30:00",NULL,"+260971234567",False,"Temperature","98","Hgb","13.5"
+"P-0088","Mary Anne","M","2000-01-13","2024-01-05 10:30:00",NULL,"+260971234567",False,"Heart Rate","15","Creatinine",NULL
+"P-0059","John  Doe","M","1998-01-12",NULL,NULL,NULL,True,"Temperature","200","Creatinine","Positive"
+"P-0054","Unknown","Unknown","1998-01-12","2024-01-05 08:00:00",NULL,"+260971234567",False,"Temperature","15","Hgb","Positive"
+"P-0015","Paul Mwape","F","2000-01-13","2024-01-05 08:00:00",NULL,"+260971234567",False,"Temperature","200","WBC","invalid"
+"P-0037","Mary Anne","M",NULL,NULL,NULL,NULL,True,"Temperature","15","Hgb","250"
+"P-0138","Paul Mwape","F",NULL,NULL,NULL,NULL,True,"Heart Rate","invalid","Hgb",NULL
+"P-0131","John  Doe","M","1998-01-12",NULL,NULL,"+260971234567",False,"Heart Rate","45","WBC",NULL
+"P-0136","Unknown","M","1998-01-12",NULL,"2024-01-10 14:00:00",NULL,True,"Temperature","45","Hgb","invalid"
+"P-0001","Unknown","M","2000-01-13","2024-01-05 08:00:00",NULL,"+260971234567",False,"Heart Rate","120/80","Hgb",NULL
+"P-0083","John  Doe","F","2000-01-13","2024-01-05 10:30:00","2024-01-10 14:00:00","+260971234567",False,"Blood Pressure","98","Hgb","invalid"
+"P-0018","Mary Anne","Unknown",NULL,NULL,NULL,"+260971234567",False,"Blood Pressure","45","Hgb",NULL
+"P-0080","Paul Mwape","F",NULL,"2024-01-05 10:30:00","2024-01-10 14:00:00",NULL,True,"Heart Rate","98","Creatinine","13.5"
+"P-0142","John  Doe","M","1998-01-12","2024-01-05 10:30:00","2024-01-10 14:00:00","+260971234567",False,"Temperature","98","Hgb","Positive"
+"P-0125","Unknown","Unknown",NULL,NULL,NULL,"+260971234567",False,"Heart Rate","98","Hgb","invalid"
+"P-0109","Lucy  Tembo","Unknown","1998-01-12","2024-01-05 10:30:00",NULL,"+260971234567",False,"Temperature","98","Hgb","250"
+"P-0138","Mary Anne","F","1998-01-12",NULL,"2024-01-10 14:00:00",NULL,True,"Heart Rate","45","Hgb","13.5"
+"P-0145","Unknown","M",NULL,NULL,NULL,"+260971234567",False,"Heart Rate","45","WBC","250"
+"P-0144","Mary Anne","Unknown",NULL,NULL,NULL,"+260971234567",False,"Temperature","200","Hgb","13.5"
+"P-0147","Mary Anne","Unknown","2000-01-13","2024-01-05 10:30:00",NULL,"+260971234567",False,"Heart Rate","15","Hgb","250"
+"P-0089","John  Doe","Unknown","2000-01-13","2024-01-05 10:30:00",NULL,NULL,True,"Heart Rate","200","Hgb","Positive"
+"P-0066","John  Doe","F",NULL,"2024-01-05 08:00:00",NULL,NULL,True,"Temperature","45","Creatinine",NULL
+"P-0026","Unknown","Unknown","1998-01-12",NULL,"2024-01-10 14:00:00","+260971234567",False,"Heart Rate","15","Hgb","Positive"
+"P-0067","Paul Mwape","M",NULL,"2024-01-05 10:30:00",NULL,"+260971234567",False,"Heart Rate","15","WBC","13.5"
+"P-0100","Lucy  Tembo","F",NULL,"2024-01-05 08:00:00","2024-01-10 14:00:00",NULL,True,"Temperature","200","Hgb",NULL
+"P-0016","John  Doe","M",NULL,"2024-01-05 08:00:00","2024-01-10 14:00:00",NULL,True,"Blood Pressure","98","Hgb","13.5"
+"P-0061","John  Doe","Unknown","1998-01-12","2024-01-05 10:30:00",NULL,"+260971234567",False,"Blood Pressure","120/80","Creatinine","Positive"
+"P-0145","Unknown","M",NULL,"2024-01-05 08:00:00",NULL,NULL,True,"Heart Rate","200","Creatinine","Positive"
+"P-0113","Unknown","Unknown",NULL,NULL,NULL,"+260971234567",False,"Heart Rate","200","Creatinine","13.5"
+"P-0097","Mary Anne","M",NULL,"2024-01-05 10:30:00",NULL,"+260971234567",False,"Temperature","invalid","Hgb",NULL
+"P-0089","Paul Mwape","M",NULL,"2024-01-05 10:30:00",NULL,NULL,True,"Temperature","98","WBC","Positive"
+"P-0040","Mary Anne","Unknown",NULL,NULL,NULL,NULL,True,"Temperature","invalid","Creatinine","Positive"
+"P-0023","Lucy  Tembo","M",NULL,NULL,"2024-01-10 14:00:00",NULL,True,"Temperature","15","Hgb","invalid"
+"P-0091","Paul Mwape","F",NULL,"2024-01-05 10:30:00",NULL,NULL,True,"Heart Rate","98","Hgb","invalid"
+"P-0126","John  Doe","M",NULL,"2024-01-05 10:30:00",NULL,"+260971234567",False,"Temperature","98","Creatinine",NULL
+"P-0126","Lucy  Tembo","Unknown",NULL,"2024-01-05 10:30:00","2024-01-10 14:00:00",NULL,True,"Temperature","200","WBC","250"
+"P-0149","Lucy  Tembo","Unknown",NULL,NULL,NULL,NULL,True,"Blood Pressure","15","Creatinine","invalid"
+"P-0079","Mary Anne","M","1998-01-12","2024-01-05 10:30:00",NULL,NULL,True,"Blood Pressure","invalid","Hgb","250"
+"P-0124","Unknown","Unknown",NULL,"2024-01-05 10:30:00","2024-01-10 14:00:00",NULL,True,"Temperature","200","Creatinine","250"
+"P-0078","Paul Mwape","M","1998-01-12","2024-01-05 08:00:00",NULL,NULL,True,"Temperature","98","Hgb",NULL
+"P-0121","Lucy  Tembo","F","1998-01-12",NULL,NULL,"+260971234567",False,"Heart Rate","98","WBC","invalid"
+"P-0019","Mary Anne","M",NULL,"2024-01-05 10:30:00","2024-01-10 14:00:00",NULL,True,"Heart Rate","120/80","WBC",NULL
+"P-0134","Lucy  Tembo","F","2000-01-13",NULL,NULL,NULL,True,"Blood Pressure","98","Hgb","250"
+"P-0070","Unknown","M",NULL,"2024-01-05 08:00:00",NULL,"+260971234567",False,"Temperature","98","WBC","13.5"
+"P-0055","Mary Anne","M","1998-01-12","2024-01-05 08:00:00","2024-01-10 14:00:00","+260971234567",False,"Temperature","45","WBC","Positive"
+"P-0060","Paul Mwape","Unknown",NULL,"2024-01-05 08:00:00",NULL,"+260971234567",False,"Blood Pressure","invalid","Hgb","invalid"
+"P-0024","Unknown","F","1998-01-12",NULL,"2024-01-10 14:00:00",NULL,True,"Heart Rate","15","WBC","250"
+"P-0058","John  Doe","F","1998-01-12",NULL,NULL,"+260971234567",False,"Heart Rate","120/80","WBC","250"
+"P-0042","Lucy  Tembo","M",NULL,"2024-01-05 08:00:00",NULL,NULL,True,"Blood Pressure","15","WBC","250"
+"P-0062","Lucy  Tembo","M","2000-01-13",NULL,NULL,NULL,True,"Temperature","120/80","WBC","250"
+"P-0036","John  Doe","Unknown",NULL,"2024-01-05 10:30:00",NULL,NULL,True,"Blood Pressure","98","Creatinine","13.5"
+"P-0129","Mary Anne","F","1998-01-12","2024-01-05 08:00:00","2024-01-10 14:00:00",NULL,True,"Temperature","98","Creatinine","250"
+"P-0053","Paul Mwape","F","1998-01-12",NULL,NULL,NULL,True,"Heart Rate","98","WBC",NULL
+"P-0080","Unknown","F","1998-01-12","2024-01-05 10:30:00",NULL,"+260971234567",False,"Heart Rate","invalid","Hgb","invalid"
+"P-0131","Lucy  Tembo","F",NULL,NULL,NULL,"+260971234567",False,"Heart Rate","45","Hgb",NULL
+"P-0131","Paul Mwape","F","2000-01-13","2024-01-05 10:30:00",NULL,NULL,True,"Temperature","120/80","WBC","250"
+"P-0060","John  Doe","F",NULL,NULL,NULL,NULL,True,"Heart Rate","45","Hgb","250"
+"P-0129","Lucy  Tembo","M",NULL,"2024-01-05 10:30:00",NULL,NULL,True,"Heart Rate","45","Hgb","13.5"
+"P-0068","Unknown","Unknown",NULL,NULL,NULL,"+260971234567",False,"Blood Pressure","45","Creatinine","invalid"
+"P-0139","Mary Anne","Unknown","2000-01-13","2024-01-05 10:30:00",NULL,"+260971234567",False,"Heart Rate","invalid","Hgb","invalid"
+"P-0043","John  Doe","F","1998-01-12",NULL,NULL,NULL,True,"Temperature","200","Hgb",NULL
+"P-0106","Mary Anne","M","1998-01-12","2024-01-05 08:00:00",NULL,NULL,True,"Blood Pressure","200","Hgb","invalid"
+"P-0118","John  Doe","F","2000-01-13","2024-01-05 10:30:00",NULL,"+260971234567",False,"Temperature","120/80","Creatinine","invalid"
+"P-0117","Mary Anne","F",NULL,"2024-01-05 08:00:00",NULL,"+260971234567",False,"Blood Pressure","15","Creatinine","Positive"
+"P-0102","John  Doe","Unknown","1998-01-12",NULL,"2024-01-10 14:00:00",NULL,True,"Blood Pressure","15","Hgb","250"
+"P-0065","John  Doe","F",NULL,NULL,NULL,"+260971234567",False,"Heart Rate","98","Creatinine","Positive"
+"P-0107","Mary Anne","Unknown","2000-01-13","2024-01-05 08:00:00",NULL,NULL,True,"Temperature","15","Creatinine","13.5"
+"P-0120","Mary Anne","Unknown",NULL,"2024-01-05 10:30:00",NULL,NULL,True,"Heart Rate","15","Hgb","invalid"
+"P-0068","Paul Mwape","M","1998-01-12","2024-01-05 10:30:00",NULL,NULL,True,"Blood Pressure","15","Hgb","13.5"
+"P-0078","John  Doe","M","1998-01-12",NULL,NULL,"+260971234567",False,"Heart Rate","98","Hgb",NULL
+"P-0100","Paul Mwape","Unknown",NULL,"2024-01-05 08:00:00",NULL,NULL,True,"Heart Rate","45","WBC","Positive"
+"P-0009","Lucy  Tembo","F","1998-01-12","2024-01-05 10:30:00",NULL,NULL,True,"Temperature","120/80","Creatinine","13.5"
+"P-0102","John  Doe","F","1998-01-12","2024-01-05 10:30:00","2024-01-10 14:00:00","+260971234567",False,"Temperature","200","Hgb",NULL
+"P-0053","Unknown","M","1998-01-12","2024-01-05 08:00:00",NULL,NULL,True,"Heart Rate","15","Hgb","250"
+"P-0139","John  Doe","Unknown","1998-01-12","2024-01-05 10:30:00",NULL,"+260971234567",False,"Heart Rate","120/80","Creatinine","13.5"
+"P-0012","Unknown","M",NULL,NULL,NULL,"+260971234567",False,"Blood Pressure","15","Hgb","13.5"
+"P-0010","Lucy  Tembo","Unknown","1998-01-12",NULL,NULL,NULL,True,"Heart Rate","98","Hgb","Positive"
+"P-0039","John  Doe","F","1998-01-12","2024-01-05 10:30:00","2024-01-10 14:00:00",NULL,True,"Heart Rate","45","WBC","13.5"
+"P-0029","Unknown","Unknown","1998-01-12",NULL,NULL,"+260971234567",False,"Heart Rate","120/80","Creatinine","250"
+"P-0147","John  Doe","Unknown","2000-01-13","2024-01-05 10:30:00",NULL,"+260971234567",False,"Temperature","98","WBC","Positive"
+"P-0005","John  Doe","F","1998-01-12",NULL,"2024-01-10 14:00:00","+260971234567",False,"Heart Rate","15","Creatinine","250"
+"P-0119","Mary Anne","M",NULL,NULL,"2024-01-10 14:00:00","+260971234567",False,"Heart Rate","200","Hgb","Positive"
+"P-0132","Unknown","F","2000-01-13","2024-01-05 08:00:00",NULL,"+260971234567",False,"Temperature","98","Creatinine","Positive"
+"P-0139","Mary Anne","M",NULL,NULL,"2024-01-10 14:00:00",NULL,True,"Temperature","98","Hgb","invalid"
+"P-0095","Lucy  Tembo","Unknown",NULL,NULL,"2024-01-10 14:00:00",NULL,True,"Temperature","invalid","WBC","Positive"
+"P-0133","Lucy  Tembo","M",NULL,NULL,NULL,"+260971234567",False,"Heart Rate","98","Creatinine","Positive"
+"P-0115","Mary Anne","Unknown",NULL,NULL,"2024-01-10 14:00:00",NULL,True,"Temperature","120/80","WBC","Positive"
+"P-0020","Paul Mwape","Unknown","1998-01-12","2024-01-05 08:00:00",NULL,"+260971234567",False,"Temperature","98","Hgb","13.5"
+"P-0094","Lucy  Tembo","Unknown","1998-01-12",NULL,NULL,"+260971234567",False,"Temperature","45","Hgb",NULL
+"P-0136","Lucy  Tembo","F","2000-01-13","2024-01-05 10:30:00","2024-01-10 14:00:00","+260971234567",False,"Heart Rate","45","WBC",NULL
+"P-0068","Lucy  Tembo","M",NULL,NULL,"2024-01-10 14:00:00",NULL,True,"Heart Rate","200","Hgb","invalid"
+"P-0045","Paul Mwape","Unknown","2000-01-13",NULL,NULL,"+260971234567",False,"Heart Rate","invalid","Hgb","Positive"
+"P-0131","Mary Anne","M","1998-01-12","2024-01-05 10:30:00",NULL,NULL,True,"Blood Pressure","120/80","Creatinine","invalid"
+"P-0142","John  Doe","F",NULL,NULL,NULL,NULL,True,"Blood Pressure","98","Hgb","Positive"
+"P-0116","Unknown","F","1998-01-12","2024-01-05 08:00:00",NULL,"+260971234567",False,"Blood Pressure","98","Hgb",NULL
+"P-0040","Mary Anne","F","1998-01-12",NULL,"2024-01-10 14:00:00",NULL,True,"Temperature","200","Creatinine","250"
+"P-0078","Unknown","Unknown","1998-01-12","2024-01-05 08:00:00",NULL,"+260971234567",False,"Blood Pressure","invalid","Creatinine",NULL
+"P-0011","John  Doe","Unknown",NULL,"2024-01-05 08:00:00",NULL,NULL,True,"Temperature","120/80","Hgb","invalid"
+"P-0075","Lucy  Tembo","M",NULL,NULL,"2024-01-10 14:00:00",NULL,True,"Heart Rate","200","WBC","invalid"
+"P-0124","Paul Mwape","Unknown","1998-01-12",NULL,NULL,NULL,True,"Temperature","45","Hgb","Positive"
+"P-0132","Paul Mwape","M",NULL,NULL,NULL,"+260971234567",False,"Heart Rate","200","Hgb","13.5"
+"P-0099","Mary Anne","M","2000-01-13","2024-01-05 08:00:00","2024-01-10 14:00:00",NULL,True,"Temperature","120/80","WBC","invalid"
+"P-0079","John  Doe","F",NULL,"2024-01-05 08:00:00","2024-01-10 14:00:00",NULL,True,"Blood Pressure","15","Hgb","13.5"
+"P-0127","Paul Mwape","Unknown","1998-01-12",NULL,"2024-01-10 14:00:00","+260971234567",False,"Temperature","invalid","Creatinine","invalid"
+"P-0012","John  Doe","Unknown",NULL,NULL,NULL,"+260971234567",False,"Temperature","98","WBC",NULL
+"P-0141","Unknown","Unknown",NULL,"2024-01-05 08:00:00","2024-01-10 14:00:00","+260971234567",False,"Temperature","15","Creatinine",NULL
+"P-0094","Unknown","Unknown",NULL,"2024-01-05 10:30:00","2024-01-10 14:00:00","+260971234567",False,"Heart Rate","invalid","Creatinine","invalid"
+"P-0133","Unknown","Unknown","1998-01-12",NULL,"2024-01-10 14:00:00",NULL,True,"Temperature","120/80","Creatinine",NULL
+"P-0130","Unknown","F",NULL,NULL,NULL,"+260971234567",False,"Heart Rate","45","Creatinine","13.5"
+"P-0148","Mary Anne","F","1998-01-12",NULL,NULL,"+260971234567",False,"Temperature","98","Hgb","invalid"
+"P-0143","Paul Mwape","Unknown",NULL,NULL,NULL,NULL,True,"Heart Rate","15","WBC","250"
+"P-0138","Mary Anne","F","1998-01-12","2024-01-05 10:30:00",NULL,NULL,True,"Temperature","45","Hgb","invalid"
+"P-0063","Paul Mwape","Unknown","1998-01-12",NULL,"2024-01-10 14:00:00",NULL,True,"Blood Pressure","invalid","Hgb","13.5"
+"P-0069","John  Doe","M",NULL,NULL,"2024-01-10 14:00:00","+260971234567",False,"Temperature","15","Hgb","250"
+"P-0137","Paul Mwape","F","2000-01-13",NULL,"2024-01-10 14:00:00",NULL,True,"Temperature","15","Hgb","Positive"
+"P-0081","Unknown","M","1998-01-12",NULL,NULL,"+260971234567",False,"Blood Pressure","120/80","WBC","Positive"
+"P-0051","Mary Anne","F",NULL,NULL,NULL,"+260971234567",False,"Temperature","15","WBC","invalid"
+"P-0044","Mary Anne","M",NULL,"2024-01-05 08:00:00",NULL,NULL,True,"Heart Rate","120/80","Hgb","13.5"
+"P-0002","Mary Anne","Unknown","1998-01-12","2024-01-05 08:00:00","2024-01-10 14:00:00","+260971234567",False,"Heart Rate","120/80","WBC","Positive"
+"P-0124","John  Doe","M",NULL,"2024-01-05 10:30:00","2024-01-10 14:00:00",NULL,True,"Blood Pressure","invalid","Creatinine",NULL
+"P-0005","Mary Anne","M","1998-01-12","2024-01-05 08:00:00","2024-01-10 14:00:00","+260971234567",False,"Blood Pressure","120/80","Creatinine","Positive"
+"P-0069","Paul Mwape","F",NULL,"2024-01-05 08:00:00",NULL,"+260971234567",False,"Heart Rate","invalid","Hgb","13.5"
+"P-0098","Unknown","F","1998-01-12","2024-01-05 08:00:00","2024-01-10 14:00:00","+260971234567",False,"Temperature","45","Creatinine",NULL
+"P-0025","Mary Anne","M",NULL,NULL,"2024-01-10 14:00:00",NULL,True,"Heart Rate","invalid","Creatinine",NULL
+"P-0145","Paul Mwape","M","1998-01-12",NULL,"2024-01-10 14:00:00","+260971234567",False,"Temperature","200","Hgb",NULL
+"P-0139","Lucy  Tembo","Unknown","1998-01-12",NULL,"2024-01-10 14:00:00","+260971234567",False,"Heart Rate","45","Hgb","13.5"
+"P-0102","John  Doe","Unknown","2000-01-13",NULL,"2024-01-10 14:00:00",NULL,True,"Temperature","120/80","WBC","invalid"
+"P-0150","John  Doe","Unknown","2000-01-13","2024-01-05 10:30:00","2024-01-10 14:00:00","+260971234567",False,"Temperature","200","WBC","250"
+"P-0082","John  Doe","M","1998-01-12",NULL,NULL,NULL,True,"Temperature","98","Hgb","13.5"
+"P-0111","Unknown","Unknown",NULL,"2024-01-05 10:30:00","2024-01-10 14:00:00",NULL,True,"Heart Rate","15","Hgb",NULL
+"P-0084","Paul Mwape","F",NULL,"2024-01-05 08:00:00",NULL,"+260971234567",False,"Blood Pressure","200","WBC","250"
+"P-0069","Paul Mwape","F","1998-01-12","2024-01-05 08:00:00",NULL,"+260971234567",False,"Temperature","45","Creatinine","invalid"
+"P-0093","Mary Anne","Unknown",NULL,NULL,"2024-01-10 14:00:00","+260971234567",False,"Heart Rate","15","Hgb","invalid"
+"P-0098","Lucy  Tembo","F",NULL,NULL,NULL,"+260971234567",False,"Blood Pressure","invalid","Hgb","invalid"
+"P-0046","Paul Mwape","F",NULL,NULL,NULL,"+260971234567",False,"Temperature","45","Creatinine","13.5"
+"P-0062","Mary Anne","Unknown",NULL,"2024-01-05 10:30:00",NULL,NULL,True,"Blood Pressure","45","WBC",NULL
+"P-0130","Paul Mwape","Unknown",NULL,"2024-01-05 10:30:00","2024-01-10 14:00:00","+260971234567",False,"Temperature","200","Hgb",NULL
+"P-0085","John  Doe","M","1998-01-12","2024-01-05 08:00:00",NULL,NULL,True,"Blood Pressure","120/80","Hgb","invalid"
+"P-0101","Unknown","Unknown",NULL,NULL,"2024-01-10 14:00:00","+260971234567",False,"Temperature","98","Creatinine","invalid"
+"P-0003","Mary Anne","F",NULL,NULL,NULL,NULL,True,"Temperature","45","WBC","invalid"
+"P-0030","Mary Anne","F","1998-01-12","2024-01-05 10:30:00","2024-01-10 14:00:00","+260971234567",False,"Temperature","120/80","Creatinine","invalid"
+"P-0120","Lucy  Tembo","F",NULL,NULL,"2024-01-10 14:00:00",NULL,True,"Blood Pressure","98","WBC","Positive"
+"P-0065","Mary Anne","Unknown",NULL,NULL,NULL,"+260971234567",False,"Heart Rate","200","WBC",NULL
+"P-0114","Unknown","F",NULL,NULL,NULL,"+260971234567",False,"Temperature","15","Creatinine","13.5"
+"P-0085","Lucy  Tembo","F",NULL,NULL,"2024-01-10 14:00:00","+260971234567",False,"Temperature","15","Creatinine","13.5"
+"P-0104","Unknown","F",NULL,"2024-01-05 08:00:00",NULL,"+260971234567",False,"Temperature","120/80","WBC","invalid"
+"P-0053","Unknown","M","2000-01-13",NULL,"2024-01-10 14:00:00",NULL,True,"Heart Rate","invalid","Hgb","250"
+"P-0045","Mary Anne","Unknown",NULL,"2024-01-05 10:30:00",NULL,"+260971234567",False,"Temperature","15","Hgb","invalid"
+"P-0129","Unknown","F",NULL,"2024-01-05 10:30:00",NULL,"+260971234567",False,"Temperature","45","Hgb","invalid"
+"P-0114","Paul Mwape","Unknown","1998-01-12","2024-01-05 08:00:00",NULL,"+260971234567",False,"Blood Pressure","invalid","Creatinine","invalid"
+"P-0076","Unknown","Unknown",NULL,"2024-01-05 10:30:00",NULL,"+260971234567",False,"Blood Pressure","invalid","Hgb","invalid"
+"P-0059","Paul Mwape","F",NULL,"2024-01-05 10:30:00",NULL,NULL,True,"Temperature","15","Creatinine","Positive"
+"P-0040","John  Doe","M","1998-01-12","2024-01-05 10:30:00",NULL,NULL,True,"Temperature","200","Hgb",NULL
+"P-0144","John  Doe","F","2000-01-13","2024-01-05 10:30:00",NULL,NULL,True,"Blood Pressure","15","Creatinine","13.5"
+"P-0148","Mary Anne","Unknown",NULL,"2024-01-05 10:30:00",NULL,"+260971234567",False,"Blood Pressure","15","Hgb","Positive"
+"P-0058","Unknown","Unknown",NULL,NULL,"2024-01-10 14:00:00","+260971234567",False,"Heart Rate","15","Creatinine","Positive"
+"P-0090","Mary Anne","Unknown",NULL,"2024-01-05 08:00:00",NULL,"+260971234567",False,"Heart Rate","98","Hgb","invalid"
+"P-0117","Mary Anne","F","2000-01-13","2024-01-05 10:30:00","2024-01-10 14:00:00",NULL,True,"Heart Rate","200","Hgb","13.5"
+"P-0114","Lucy  Tembo","Unknown",NULL,NULL,"2024-01-10 14:00:00",NULL,True,"Blood Pressure","98","Creatinine","invalid"
+"P-0073","Unknown","Unknown","2000-01-13","2024-01-05 08:00:00",NULL,"+260971234567",False,"Blood Pressure","98","Hgb","250"
+"P-0078","Paul Mwape","F","2000-01-13","2024-01-05 10:30:00",NULL,"+260971234567",False,"Temperature","200","Hgb","invalid"
+"P-0059","John  Doe","F","1998-01-12","2024-01-05 10:30:00",NULL,NULL,True,"Heart Rate","15","WBC",NULL
+"P-0107","John  Doe","F","1998-01-12","2024-01-05 08:00:00",NULL,NULL,True,"Temperature","invalid","Creatinine","13.5"
+"P-0112","Lucy  Tembo","Unknown",NULL,NULL,NULL,"+260971234567",False,"Temperature","200","Creatinine","250"
+"P-0020","Unknown","Unknown","1998-01-12",NULL,NULL,NULL,True,"Heart Rate","200","Hgb","250"
+"P-0066","Unknown","M","1998-01-12",NULL,NULL,"+260971234567",False,"Blood Pressure","120/80","WBC",NULL
+"P-0083","Lucy  Tembo","M",NULL,NULL,NULL,NULL,True,"Blood Pressure","98","Creatinine",NULL
+"P-0080","Lucy  Tembo","M","1998-01-12",NULL,"2024-01-10 14:00:00",NULL,True,"Heart Rate","120/80","WBC","invalid"
+"P-0149","Lucy  Tembo","Unknown","1998-01-12",NULL,NULL,NULL,True,"Heart Rate","98","WBC","13.5"
+"P-0088","John  Doe","M",NULL,"2024-01-05 08:00:00",NULL,NULL,True,"Temperature","15","WBC","invalid"
+"P-0014","John  Doe","F","1998-01-12",NULL,NULL,NULL,True,"Blood Pressure","200","Creatinine","13.5"
+"P-0037","Paul Mwape","Unknown",NULL,"2024-01-05 10:30:00",NULL,"+260971234567",False,"Blood Pressure","45","Creatinine","250"
+"P-0028","Paul Mwape","F",NULL,NULL,"2024-01-10 14:00:00","+260971234567",False,"Temperature","120/80","WBC","Positive"
+"P-0024","Paul Mwape","M","1998-01-12","2024-01-05 08:00:00",NULL,NULL,True,"Temperature","200","WBC",NULL
+"P-0110","John  Doe","M","1998-01-12",NULL,NULL,"+260971234567",False,"Blood Pressure","200","WBC","250"
+"P-0079","John  Doe","F","1998-01-12","2024-01-05 10:30:00",NULL,"+260971234567",False,"Blood Pressure","45","Hgb","250"
+"P-0046","John  Doe","M","2000-01-13","2024-01-05 08:00:00",NULL,NULL,True,"Heart Rate","invalid","Hgb","invalid"
+"P-0010","Mary Anne","F","2000-01-13","2024-01-05 08:00:00","2024-01-10 14:00:00",NULL,True,"Heart Rate","invalid","Hgb","invalid"
+"P-0085","Paul Mwape","F",NULL,NULL,"2024-01-10 14:00:00",NULL,True,"Heart Rate","15","Hgb",NULL
+"P-0068","Unknown","F","2000-01-13",NULL,NULL,NULL,True,"Blood Pressure","98","WBC",NULL
+"P-0049","Lucy  Tembo","M",NULL,NULL,NULL,"+260971234567",False,"Heart Rate","invalid","Creatinine",NULL
+"P-0032","Unknown","F",NULL,NULL,NULL,NULL,True,"Temperature","120/80","Hgb","250"
+"P-0108","Unknown","Unknown","2000-01-13","2024-01-05 10:30:00",NULL,NULL,True,"Temperature","200","WBC",NULL
+"P-0120","Lucy  Tembo","Unknown","1998-01-12","2024-01-05 08:00:00",NULL,NULL,True,"Heart Rate","15","Creatinine","13.5"
+"P-0061","Mary Anne","M","1998-01-12","2024-01-05 08:00:00",NULL,"+260971234567",False,"Blood Pressure","98","WBC","invalid"
+"P-0050","Lucy  Tembo","F","1998-01-12","2024-01-05 10:30:00","2024-01-10 14:00:00","+260971234567",False,"Temperature","200","Hgb",NULL
+"P-0119","John  Doe","F","1998-01-12",NULL,NULL,NULL,True,"Blood Pressure","invalid","WBC",NULL
+"P-0041","Lucy  Tembo","F","1998-01-12",NULL,NULL,NULL,True,"Heart Rate","15","WBC","13.5"
+"P-0061","Paul Mwape","F",NULL,"2024-01-05 08:00:00","2024-01-10 14:00:00","+260971234567",False,"Heart Rate","45","Hgb","250"
+"P-0107","Paul Mwape","Unknown",NULL,"2024-01-05 10:30:00","2024-01-10 14:00:00",NULL,True,"Temperature","45","Hgb",NULL
+"P-0098","Paul Mwape","F",NULL,"2024-01-05 08:00:00",NULL,NULL,True,"Heart Rate","15","WBC","invalid"
+"P-0100","Lucy  Tembo","Unknown","1998-01-12","2024-01-05 08:00:00",NULL,NULL,True,"Blood Pressure","98","WBC",NULL
+"P-0145","Lucy  Tembo","M",NULL,"2024-01-05 10:30:00",NULL,"+260971234567",False,"Temperature","15","Hgb","invalid"
+"P-0087","Paul Mwape","F","2000-01-13",NULL,"2024-01-10 14:00:00","+260971234567",False,"Blood Pressure","98","Creatinine","250"
+"P-0018","Mary Anne","M","1998-01-12","2024-01-05 08:00:00","2024-01-10 14:00:00","+260971234567",False,"Temperature","invalid","Hgb",NULL
+"P-0120","Paul Mwape","M",NULL,"2024-01-05 08:00:00",NULL,"+260971234567",False,"Heart Rate","120/80","Hgb","Positive"
+"P-0043","Mary Anne","M","1998-01-12","2024-01-05 08:00:00","2024-01-10 14:00:00",NULL,True,"Temperature","invalid","Creatinine","Positive"
+"P-0077","John  Doe","F",NULL,"2024-01-05 08:00:00","2024-01-10 14:00:00",NULL,True,"Temperature","98","WBC","13.5"
+"P-0076","John  Doe","M","1998-01-12",NULL,"2024-01-10 14:00:00","+260971234567",False,"Temperature","98","Creatinine","invalid"
+"P-0126","John  Doe","Unknown",NULL,"2024-01-05 08:00:00",NULL,NULL,True,"Temperature","15","Hgb","invalid"
+"P-0068","Lucy  Tembo","F","1998-01-12","2024-01-05 10:30:00","2024-01-10 14:00:00",NULL,True,"Heart Rate","98","Creatinine",NULL
+"P-0106","Lucy  Tembo","Unknown",NULL,"2024-01-05 08:00:00",NULL,NULL,True,"Temperature","98","WBC","13.5"
+"P-0129","John  Doe","F","1998-01-12","2024-01-05 08:00:00","2024-01-10 14:00:00","+260971234567",False,"Heart Rate","98","WBC","13.5"
+"P-0112","Unknown","F","2000-01-13","2024-01-05 10:30:00",NULL,"+260971234567",False,"Blood Pressure","45","Creatinine","Positive"
+"P-0134","Unknown","Unknown",NULL,"2024-01-05 10:30:00",NULL,NULL,True,"Heart Rate","200","Hgb","13.5"
+"P-0026","Unknown","F",NULL,NULL,NULL,NULL,True,"Temperature","120/80","WBC","13.5"
+"P-0071","Mary Anne","Unknown",NULL,"2024-01-05 10:30:00",NULL,NULL,True,"Temperature","invalid","Hgb","13.5"
+"P-0069","John  Doe","F","2000-01-13",NULL,NULL,NULL,True,"Heart Rate","200","Hgb","Positive"
+"P-0083","Lucy  Tembo","Unknown","1998-01-12",NULL,"2024-01-10 14:00:00","+260971234567",False,"Temperature","invalid","WBC",NULL
+"P-0096","John  Doe","F",NULL,"2024-01-05 08:00:00",NULL,NULL,True,"Blood Pressure","98","Hgb","250"
+"P-0052","John  Doe","F","1998-01-12","2024-01-05 08:00:00",NULL,NULL,True,"Temperature","45","WBC","13.5"
+"P-0062","Lucy  Tembo","Unknown",NULL,NULL,NULL,"+260971234567",False,"Blood Pressure","15","Creatinine","250"
+"P-0024","John  Doe","F","1998-01-12","2024-01-05 08:00:00","2024-01-10 14:00:00","+260971234567",False,"Heart Rate","invalid","Hgb","Positive"
+"P-0105","John  Doe","F","1998-01-12","2024-01-05 10:30:00","2024-01-10 14:00:00","+260971234567",False,"Temperature","120/80","Creatinine","Positive"
+"P-0097","Lucy  Tembo","F","1998-01-12",NULL,NULL,NULL,True,"Blood Pressure","120/80","WBC",NULL
+"P-0002","Unknown","Unknown",NULL,NULL,NULL,NULL,True,"Heart Rate","45","Hgb","Positive"
+"P-0084","Paul Mwape","Unknown","2000-01-13","2024-01-05 08:00:00",NULL,"+260971234567",False,"Heart Rate","98","WBC","Positive"
+"P-0031","Mary Anne","Unknown",NULL,NULL,"2024-01-10 14:00:00","+260971234567",False,"Blood Pressure","15","Creatinine","invalid"
+"P-0082","John  Doe","Unknown","2000-01-13","2024-01-05 10:30:00","2024-01-10 14:00:00","+260971234567",False,"Heart Rate","120/80","Hgb","invalid"
+"P-0120","Paul Mwape","F","1998-01-12","2024-01-05 10:30:00",NULL,NULL,True,"Heart Rate","15","Creatinine",NULL
+"P-0119","Unknown","F","1998-01-12","2024-01-05 08:00:00","2024-01-10 14:00:00","+260971234567",False,"Temperature","98","Hgb",NULL
+"P-0003","John  Doe","Unknown",NULL,"2024-01-05 10:30:00","2024-01-10 14:00:00",NULL,True,"Blood Pressure","200","WBC","invalid"
+"P-0037","John  Doe","M","1998-01-12",NULL,NULL,NULL,True,"Heart Rate","120/80","Hgb",NULL
+"P-0035","Unknown","Unknown","1998-01-12","2024-01-05 08:00:00","2024-01-10 14:00:00",NULL,True,"Temperature","15","Creatinine","invalid"
+"P-0082","Paul Mwape","M","1998-01-12","2024-01-05 08:00:00",NULL,"+260971234567",False,"Heart Rate","200","Hgb","250"
+"P-0120","Lucy  Tembo","M",NULL,"2024-01-05 08:00:00",NULL,NULL,True,"Temperature","45","Creatinine","13.5"
+"P-0041","Unknown","M","1998-01-12","2024-01-05 08:00:00","2024-01-10 14:00:00",NULL,True,"Heart Rate","15","WBC",NULL
+"P-0077","Mary Anne","M",NULL,"2024-01-05 08:00:00","2024-01-10 14:00:00",NULL,True,"Temperature","98","Hgb","13.5"
+"P-0004","Mary Anne","M",NULL,"2024-01-05 10:30:00",NULL,NULL,True,"Blood Pressure","15","Hgb","13.5"
+"P-0051","Mary Anne","M","2000-01-13","2024-01-05 10:30:00",NULL,"+260971234567",False,"Heart Rate","200","WBC","invalid"
+"P-0008","Lucy  Tembo","M","2000-01-13","2024-01-05 08:00:00",NULL,"+260971234567",False,"Temperature","45","Hgb","13.5"
+"P-0076","Lucy  Tembo","Unknown",NULL,"2024-01-05 10:30:00",NULL,"+260971234567",False,"Temperature","200","WBC","250"
+"P-0135","Lucy  Tembo","Unknown","2000-01-13",NULL,NULL,NULL,True,"Blood Pressure","120/80","Creatinine","invalid"
+"P-0070","Paul Mwape","Unknown","1998-01-12",NULL,"2024-01-10 14:00:00","+260971234567",False,"Temperature","120/80","Creatinine",NULL
+"P-0060","Mary Anne","Unknown","1998-01-12","2024-01-05 10:30:00","2024-01-10 14:00:00",NULL,True,"Blood Pressure","45","Creatinine","250"
+"P-0061","Paul Mwape","Unknown","1998-01-12","2024-01-05 08:00:00",NULL,NULL,True,"Heart Rate","45","Creatinine","250"
+"P-0007","Paul Mwape","F",NULL,NULL,NULL,NULL,True,"Heart Rate","120/80","Hgb","Positive"
+"P-0137","Paul Mwape","Unknown","2000-01-13","2024-01-05 08:00:00",NULL,"+260971234567",False,"Heart Rate","45","Hgb","Positive"
+"P-0047","John  Doe","M","2000-01-13",NULL,NULL,"+260971234567",False,"Temperature","15","Creatinine",NULL
+"P-0076","Lucy  Tembo","M",NULL,NULL,"2024-01-10 14:00:00","+260971234567",False,"Blood Pressure","98","WBC",NULL
